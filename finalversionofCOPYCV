@@ -796,7 +796,8 @@
           "height": 503
         },
         "id": "hE-Gq8gERGKC",
-        "outputId": "cfc96695-b5e5-4771-c077-0cc95a1295dc"
+        "outputId": "cfc96695-b5e5-4771-c077-0cc95a1295dc",
+        "collapsed": true
       },
       "execution_count": 32,
       "outputs": [
